@@ -1,0 +1,9 @@
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\bin\Debug\Uygulama 5.exe.config
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\bin\Debug\Uygulama 5.exe
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\bin\Debug\Uygulama 5.pdb
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\obj\Debug\Uygulama_5.Form1.resources
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\obj\Debug\Uygulama_5.Properties.Resources.resources
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\obj\Debug\Uygulama 5.csproj.GenerateResource.cache
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\obj\Debug\Uygulama 5.csproj.CoreCompileInputs.cache
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\obj\Debug\Uygulama 5.exe
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 5\obj\Debug\Uygulama 5.pdb

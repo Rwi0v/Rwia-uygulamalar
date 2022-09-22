@@ -1,0 +1,10 @@
+C:\Users\BT2\source\repos\rwi0v2\bin\Debug\rwi0v2.exe.config
+C:\Users\BT2\source\repos\rwi0v2\bin\Debug\rwi0v2.exe
+C:\Users\BT2\source\repos\rwi0v2\bin\Debug\rwi0v2.pdb
+C:\Users\BT2\source\repos\rwi0v2\obj\Debug\rwi0v2.csproj.AssemblyReference.cache
+C:\Users\BT2\source\repos\rwi0v2\obj\Debug\rwi0v2.Form1.resources
+C:\Users\BT2\source\repos\rwi0v2\obj\Debug\rwi0v2.Properties.Resources.resources
+C:\Users\BT2\source\repos\rwi0v2\obj\Debug\rwi0v2.csproj.GenerateResource.cache
+C:\Users\BT2\source\repos\rwi0v2\obj\Debug\rwi0v2.csproj.CoreCompileInputs.cache
+C:\Users\BT2\source\repos\rwi0v2\obj\Debug\rwi0v2.exe
+C:\Users\BT2\source\repos\rwi0v2\obj\Debug\rwi0v2.pdb

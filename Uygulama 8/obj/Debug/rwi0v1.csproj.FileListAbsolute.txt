@@ -1,0 +1,10 @@
+C:\Users\BT2\source\repos\rwi0v1\bin\Debug\rwi0v1.exe.config
+C:\Users\BT2\source\repos\rwi0v1\bin\Debug\rwi0v1.exe
+C:\Users\BT2\source\repos\rwi0v1\bin\Debug\rwi0v1.pdb
+C:\Users\BT2\source\repos\rwi0v1\obj\Debug\rwi0v1.csproj.AssemblyReference.cache
+C:\Users\BT2\source\repos\rwi0v1\obj\Debug\rwi0v1.Properties.Resources.resources
+C:\Users\BT2\source\repos\rwi0v1\obj\Debug\rwi0v1.csproj.GenerateResource.cache
+C:\Users\BT2\source\repos\rwi0v1\obj\Debug\rwi0v1.csproj.CoreCompileInputs.cache
+C:\Users\BT2\source\repos\rwi0v1\obj\Debug\rwi0v1.exe
+C:\Users\BT2\source\repos\rwi0v1\obj\Debug\rwi0v1.pdb
+C:\Users\BT2\source\repos\rwi0v1\obj\Debug\rwi0v1.ButonDuyuru.resources

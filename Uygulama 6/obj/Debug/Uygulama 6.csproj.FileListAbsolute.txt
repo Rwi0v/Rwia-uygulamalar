@@ -1,0 +1,10 @@
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\obj\Debug\Uygulama_6.Form1.resources
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\obj\Debug\Uygulama_6.Properties.Resources.resources
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\obj\Debug\Uygulama 6.csproj.GenerateResource.cache
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\obj\Debug\Uygulama 6.csproj.CoreCompileInputs.cache
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\obj\Debug\Uygulama 6.csproj.AssemblyReference.cache
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\bin\Debug\Uygulama 6.exe.config
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\bin\Debug\Uygulama 6.exe
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\bin\Debug\Uygulama 6.pdb
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\obj\Debug\Uygulama 6.exe
+C:\Users\BT2\Desktop\Rwia-uygulamalar\Uygulama 6\obj\Debug\Uygulama 6.pdb
